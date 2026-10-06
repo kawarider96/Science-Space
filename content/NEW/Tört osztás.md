@@ -12,6 +12,7 @@ $$\frac{3\cdot5}{4\cdot2} = \frac{15}{8}$$
 tehát:
 
 $$\boxed{\frac{15}{8}}$$
+
 ---
 
 A szabály:

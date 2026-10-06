@@ -283,6 +283,10 @@ body {
   border-color: var(--tech-border);
 }
 
+.math-block {
+	color: #9eff00;
+}
+
 /* ==================================================
    HTML TECH KOMPONENSEK
    ================================================== */
