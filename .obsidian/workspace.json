@@ -1,80 +1,20 @@
 {
   "main": {
-    "id": "e37abcd5a72e283e",
+    "id": "806feceb03f0ff1d",
     "type": "split",
     "children": [
       {
-        "id": "248a076f8b81faaa",
+        "id": "7ee4b84c7730f3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "d09ff601a9f2f5f1",
+            "id": "8b7545d77c65a580",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NEW/Geometria – A kör.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Geometria – A kör"
-            }
-          },
-          {
-            "id": "71ab9676337c05b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NEW/Tört osztás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tört osztás"
-            }
-          },
-          {
-            "id": "3d34dbedaf9dfc21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NEW/Tört szorzás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tört szorzás"
-            }
-          },
-          {
-            "id": "61329d313444c621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NEW/Tört összeadás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tört összeadás"
-            }
-          },
-          {
-            "id": "b846bc66713ffef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/components/Math LaTex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Math LaTex"
+              "title": "Új lap"
             }
           }
         ]
@@ -83,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3eb8a1489e190b8c",
+    "id": "77eea361f3dc30d8",
     "type": "split",
     "children": [
       {
-        "id": "e0661998d709309e",
+        "id": "0e59d09e1dfaa35e",
         "type": "tabs",
         "children": [
           {
-            "id": "5614d4bfc5b74e67",
+            "id": "a7376c7dd674c7e3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -106,7 +46,7 @@
             }
           },
           {
-            "id": "896737ad1e552590",
+            "id": "9fa978ad85ca2758",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -123,7 +63,7 @@
             }
           },
           {
-            "id": "df1aa95f4832fb62",
+            "id": "47f0446832d8b969",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -142,15 +82,15 @@
     "width": 300
   },
   "right": {
-    "id": "97abb8c0cb3b022d",
+    "id": "32c302c7d81ec74f",
     "type": "split",
     "children": [
       {
-        "id": "d904930d53b940c5",
+        "id": "7d53f22750811a6a",
         "type": "tabs",
         "children": [
           {
-            "id": "b92a132e31f905cb",
+            "id": "746aae4eed161c07",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -168,7 +108,7 @@
             }
           },
           {
-            "id": "9887448617dc0065",
+            "id": "1421584171e391af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -181,7 +121,7 @@
             }
           },
           {
-            "id": "0c3df6e1c86d8349",
+            "id": "40c4839c5dbce8d2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -196,7 +136,7 @@
             }
           },
           {
-            "id": "40b04bd68b136a6a",
+            "id": "cc7a0594b9eb62af",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -210,7 +150,7 @@
             }
           },
           {
-            "id": "109241c556aacc11",
+            "id": "6b827a04595926cb",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -241,19 +181,6 @@
       "bases:Új bázis létrehozása": false
     }
   },
-  "active": "d09ff601a9f2f5f1",
-  "lastOpenFiles": [
-    "NEW/Háromszögek alapjai.md",
-    "NEW/Geometria – A kör.md",
-    "NEW/Geometria alapok.md",
-    "NEW/Subnetmask.md",
-    "NEW/Tört alapok.md",
-    "NEW/Tört osztás.md",
-    "NEW/Tört összeadás.md",
-    "NEW/Tört szorzás.md",
-    "Obsidian/components/Math LaTex.md",
-    "NEW/TANULÁSI ÜTEMTERV.md",
-    "Math/Lineáris algebra/components/Mátrix összeadás.md",
-    "NEW"
-  ]
+  "active": "8b7545d77c65a580",
+  "lastOpenFiles": []
 }
