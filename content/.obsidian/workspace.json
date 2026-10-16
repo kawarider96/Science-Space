@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEW/Geometria – A kör.md",
+                "file": "NEW/Fizika képletek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometria – A kör"
+              "title": "Fizika képletek"
             }
           },
           {
@@ -205,8 +205,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "Minden tulajdonság"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -238,17 +238,20 @@
       "daily-notes:Mai jegyzet megnyitása": false,
       "templates:Sablon beszúrása": false,
       "command-palette:Parancspaletta megnyitása": false,
-      "bases:Új bázis létrehozása": false
+      "bases:Új bázis létrehozása": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "d09ff601a9f2f5f1",
   "lastOpenFiles": [
-    "NEW/Háromszögek alapjai.md",
+    "NEW/Tört osztás.md",
+    "Névtelen 1.md",
+    "NEW/Fizika képletek.md",
     "NEW/Geometria – A kör.md",
+    "NEW/Háromszögek alapjai.md",
     "NEW/Geometria alapok.md",
     "NEW/Subnetmask.md",
     "NEW/Tört alapok.md",
-    "NEW/Tört osztás.md",
     "NEW/Tört összeadás.md",
     "NEW/Tört szorzás.md",
     "Obsidian/components/Math LaTex.md",
